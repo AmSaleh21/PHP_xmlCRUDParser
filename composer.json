@@ -1,0 +1,21 @@
+{
+    "name": "xml_parser/project",
+    "description": "ITI OS42 xml project",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdelrahman Mohammed Saleh"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "Utility",
+            "DTO"
+        ],
+        "files": [
+            "config.php"
+        ]
+    }
+}

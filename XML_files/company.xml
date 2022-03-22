@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="company_schema.xsd">
+
+
+    <employee>
+        <name>saleh</name>
+        <phone>01844605895</phone>
+        <address>saleh address</address>
+        <email>saleh@mail.com</email>
+    </employee>
+    
+    <employee>
+        <name>ali</name>
+        <phone>01844605147</phone>
+        <address>ali address</address>
+        <email>ali@mail.com</email>
+    </employee>
+
+    <employee>
+        <name>ahmed s</name>
+        <phone>01844605147</phone>
+        <address>ahmed s address</address>
+        <email>ahmeds@mail.com</email>
+    </employee>
+</company>
