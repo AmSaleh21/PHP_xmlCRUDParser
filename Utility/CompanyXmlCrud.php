@@ -1,5 +1,5 @@
 <?php
-require_once "D:\ITI_Material\xml\Project\PHP_xmlParser\\vendor\autoload.php";
+require_once "vendor/autoload.php";
 
 class CompanyXmlCrud
 {
